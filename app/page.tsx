@@ -7,4 +7,3 @@ export default function Home() {
  );
 }
 
-const x: number = "ceci n'est pas un nombre";
