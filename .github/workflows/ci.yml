@@ -27,4 +27,3 @@ jobs:
 
       - name: Compiler le projet (build)
         run: npm run build
-EOF
